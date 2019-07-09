@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^9.1.5",
-    "cssnano": "^4.1.4",
+    "cssnano": "^4.1.10",
     "gulp": "^3.9.1",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.1"
